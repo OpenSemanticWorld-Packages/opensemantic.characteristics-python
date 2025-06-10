@@ -9,7 +9,7 @@
 -->
 
 [![PyPI-Server](https://img.shields.io/pypi/v/opensemantic.characteristics.svg)](https://pypi.org/project/opensemantic.characteristics/)
-[![Coveralls](https://img.shields.io/coveralls/github/OpenSemanticWorld-Packages//opensemantic.characteristics/main.svg)](https://coveralls.io/r/OpenSemanticWorld-Packages//opensemantic.characteristics)
+[![Coveralls](https://img.shields.io/coveralls/github/OpenSemanticWorld-Packages/opensemantic.characteristics/main.svg)](https://coveralls.io/r/OpenSemanticWorld-Packages/opensemantic.characteristics)
 [![Project generated with PyScaffold](https://img.shields.io/badge/-PyScaffold-005CA0?logo=pyscaffold)](https://pyscaffold.org/)
 
 # opensemantic.characteristics
